@@ -8,3 +8,8 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+
+- [X] Did I eat breakfast today?
+- [X] Did I resume my github course?
+- [ ] Did I eat dinner?
+- [X] Did I make a task list?
